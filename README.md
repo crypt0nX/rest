@@ -7,9 +7,7 @@
 
 ##  **使用须知**
 
-##### 本软件使用[Uni-App](https://uniapp.dcloud.io/)编写
-
-基于[ZeroMean/leave-school](https://github.com/ZeroMean/leave-school) 进行的二次开发
+##### 基于[ZeroMean/leave-school](https://github.com/ZeroMean/leave-school) 进行的二次开发
 
 ##### 软件仅供学习研究使用，请勿用于任何商业非法用途，否则造成任何后果作者概不负责！！！
 
