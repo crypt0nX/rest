@@ -30,5 +30,5 @@
  - 修复"当前时间"与"发起申请"时间中月份小于10月不显示0的bug。
  - 不想写了...
 
-# 软件截图[Screenshot_2022-03-14-19-56-58-285_uni UNI7D8A0A0](https://user-images.githubusercontent.com/92150833/158167598-178f39f6-5479-464a-b13c-045e7b85a721.jpg)[Screenshot_2022-03-13-17-46-26-958_uni UNI7D8A0A0](https://user-images.githubusercontent.com/92150833/158060510-4d4d8ad0-9f9a-4bca-b793-c6f3168db61a.jpg)
+# 软件截图![Screenshot_2022-03-14-19-56-58-285_uni UNI7D8A0A0](https://user-images.githubusercontent.com/92150833/158167598-178f39f6-5479-464a-b13c-045e7b85a721.jpg)[Screenshot_2022-03-13-17-46-26-958_uni UNI7D8A0A0](https://user-images.githubusercontent.com/92150833/158060510-4d4d8ad0-9f9a-4bca-b793-c6f3168db61a.jpg)
 
